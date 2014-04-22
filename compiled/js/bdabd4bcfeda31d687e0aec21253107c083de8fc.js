@@ -24,5 +24,3 @@
 }());
 
 console.log('hello world')
-
-
